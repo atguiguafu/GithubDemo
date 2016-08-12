@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.e(TAG,"把当前工程上传到github网站上，供全球用户下载...");
+        Log.e(TAG,"yangguangfu修改了一个小bug...");
     }
 }
